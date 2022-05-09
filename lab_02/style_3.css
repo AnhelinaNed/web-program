@@ -1,0 +1,20 @@
+table {
+  width: 500px;                 /* ширина таблиці */
+  border-spacing: 10px 5px;     /* відступи  */
+  border-collapse: collapse;    /* забрати проміжки */
+}
+
+
+td {
+  border: 2px solid #000000;
+}
+
+th {
+    border: 2px solid #000000;
+    background-color: #b4c9f1;
+}
+
+.hed {
+    background-color: #99f1a1;
+
+  }

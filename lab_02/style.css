@@ -1,0 +1,19 @@
+table {
+  width: 500px;                 /* ширина таблиці */
+  border-spacing: 10px 5px;     /* відступи  */
+  border-collapse: collapse;    /* забрати проміжки */
+}
+
+td, th {
+  border: 1px solid #6395ff;
+}
+
+thead {
+  background-color: #dae1f8;
+}
+
+tfoot {
+  background-color: #5776b1;
+  text-align: right;
+  color: #fff;
+}
